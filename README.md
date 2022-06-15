@@ -1,3 +1,3 @@
 # addtopath
-Download Link:
-[addToPathInstallerSetup.msi](myLib/addToPathInstallerSetup.msi)
+Download installer:\n
+[addToPathInstallerSetup.msi](myLib/setup.zip)
